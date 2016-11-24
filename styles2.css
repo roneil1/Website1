@@ -1,0 +1,87 @@
+body,td,th {
+	font-family: Trebuchet MS, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	color: #010000;
+}
+body {
+	background-color: #3621BC;
+}
+a {
+	color: #333;
+		text-decoration:none;
+}
+a:visited {
+	color: #333;
+			text-decoration:none;
+}
+a:hover {
+	color: #333;
+	text-decoration:underline;
+}
+a:active {
+	color: #333;
+	text-decoration:none;
+}
+table {
+	background-color: #ffffff;
+	border-spacing: 2px;
+}
+
+td {
+	border:0px;
+}
+.title {
+    background-image: url(MAGA.png);
+	text-align: left;
+	padding:5px;
+	font-size: 45px;
+	color: #010000;
+	vertical-align: middle;
+	height:180px;
+	font-family:'Comic Sans MS' ;
+}
+
+.nav {
+	border-bottom: 1px solid #E6E4CA;
+}
+.navHover {
+	cursor: pointer;
+background-color:#C4BCA8;
+}
+.navLastHover {
+	cursor: pointer;
+	border-left: 3px solid #A9A38D;
+	font-weight: bold;
+}
+.navHead {
+	color: #ffffff;
+	background-color: #676CA7;
+}
+.infoBox {
+	text-align: left;
+	vertical-align: middle;
+	color: #FFFFFF;
+}
+.creds {
+	color: #FFFFFF;
+	font-size: 12px;
+	text-align: center;
+	background-color:#F21313;
+}
+.size12 {
+	font-size: 12px;
+}
+
+.content {
+	border-top: 1px dashed #A2A2A2;
+	border-bottom: 1px dashed #A2A2A2;
+	margin-left: 2em;
+	font-size: 12px;
+	line-height: 2em;
+}
+.divider {
+	border-left: 1px solid #E6E4CA;
+}
+.th, td {
+    padding:5px;
+}
